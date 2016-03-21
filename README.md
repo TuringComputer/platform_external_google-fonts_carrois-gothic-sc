@@ -1,1 +1,0 @@
-# platform_external_google-fonts_carrois-gothic-sc
